@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(2, 87, 61);
+    font-weight: bold;
+}
+
+h2 {
+    color: rgb(79, 77, 189);
+    font-size: 22px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(171, 182, 130);
+}
